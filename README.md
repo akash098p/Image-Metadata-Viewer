@@ -47,7 +47,7 @@ Image Metadata Viewer is a fast, professional and privacy-focused web applicatio
 
 ![ImageMetadataViewer](https://i.postimg.cc/8cvYSYnt/Image-Meta-Data.jpg)
 
-🔗  https://akash098p.github.io/ImageMetadataViewer/
+🔗  https://akash098p.github.io/Image-Metadata-Viewer/
 
 ## 🎯 Supported Formats
 
