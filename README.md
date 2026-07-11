@@ -1,6 +1,6 @@
 # 📸 Image Metadata Viewer
 
-A fast, professional, and privacy-focused web application to view and remove EXIF metadata from images. Processes metadata in under 1 second with a modern, clean interface.
+Image Metadata Viewer is a fast, professional and privacy-focused web application built with vanilla JavaScript, HTML5, and CSS3 that allows users to view and remove EXIF metadata from images in their browser.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-2.0.0-green.svg)
